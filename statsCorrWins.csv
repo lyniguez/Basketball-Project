@@ -1,0 +1,11 @@
+Category,Wins 2014-2016,Wins 2014,Wins 2015,Wins 2016,Definition
+AST_PACE,0.53,0.73,0.66,0.63,* Pace Adjusted Assists
+ufgp,0.46,0.67,0.62,0.5,Uncontested field goal percent
+DR_PACE,0.46,0.63,0.61,0.48,* Pace Adjusted Defensive Rebounds
+3PM_PACE,0.46,0.62,0.61,0.47,* Pace Adjusted 3pt made
+AST RAT,0.37,0.48,0.56,0.38,Assists per 100 possessions used
+STOCKS_PACE,0.33,0.47,0.49,0.35,* Pace Adjusted for Steals and Blocks
+UA_PACE,0.11,0.2,0.27,0.07,* Pace Adjusted Uncontested Assists
+2PM_PACE,0.08,0.1,0.11,-0.01,* Pace Adjusted 2pt made
+OR_PACE,-0.12,-0.1,-0.07,-0.15,* Pace Adjusted Offensive Rebounds
+DEFRTG,-0.54,-0.47,-0.82,-0.68,Number of points allowed per 100 possesions by a team
