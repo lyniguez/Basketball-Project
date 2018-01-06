@@ -8,11 +8,8 @@
 * Patrick Dancel
 
 ### Project: Which style of basketball is the best way to win an NBA Basketball game?
-Compare the team that won the most championships vs league wide average by decade
-* Lakers vs the 80s
-* Bulls vs the 90s
-* Spurs vs the 00s
-* Warriors vs 2010s
+Analyze statistics to find which ones correlate most to winning and losing a basketball game.
+* Compare data from the last 3 basketball seasons 2014 - 2017
 
 ### Questions to answer
 * #### Shot selection and shot percentage by distance
@@ -38,6 +35,7 @@ Compare the team that won the most championships vs league wide average by decad
 ### Data Sets to be Used
 * Probasketballapi
 * basketballreference
+* stats.nba.com
 
 ### Rough Breakdown of Tasks
 * Andy - Lakers and the 1980s
