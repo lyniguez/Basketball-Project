@@ -31,19 +31,13 @@ Analyze statistics to find which ones correlate most to winning and losing a bas
         * uncontested/contested
 
 
-
 ### Data Sets to be Used
 * Probasketballapi
 * basketballreference
 * stats.nba.com
 
-### Rough Breakdown of Tasks
-* Andy - Lakers and the 1980s
-* Patrick - Bulls and the 1990s
-* Jay - Spurs and the 2000s
-* Lorenzo - Warriors and the 2010s
 
 ### Estimate Rows of Data
-* We will be looking at 4 decades of data. 
-* 82 games x 40 years = 3,280 games x 30 teams = 98,400 total games of data
-* We are anticipating a million + lines of data.
+* We will be looking at 3 seasons of regular season data. 
+* 82 games x 3 years = 246 games x 30 teams = 7,380 total games of data
+
